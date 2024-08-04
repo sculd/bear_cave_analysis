@@ -1,0 +1,3 @@
+[submodule "market_data"]
+	path = market_data
+	url = git@github.com:sculd/market_data.git
