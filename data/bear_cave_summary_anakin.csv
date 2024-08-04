@@ -1,0 +1,163 @@
+episode,date,ticker,researcher
+31,2020-09-14,NKLA,Hindenburg Research
+31,2020-09-14,NAK,J Capital Research
+31,2020-09-14,NLS,Citron Research
+32,2020-09-21,NNOX,Citron Research
+32,2020-09-21,GLJ,Viceroy Research
+32,2020-09-21,AEYE,Mariner Research
+32,2020-09-21,NKLA,Hindenburg Research
+32,2020-09-21,PEN,Roddy Boyd
+32,2020-09-21,PDCO,Bucephalus Research
+32,2020-09-21,LL,Whitney Tilson
+33,2020-09-28,NNOX,Muddy Waters Research
+33,2020-09-28,NNOX,Citron Research
+33,2020-09-28,HTHT,Bonitas Research
+33,2020-09-28,GP,Mariner Research
+33,2020-09-28,CRNC,The Friendly Bear
+33,2020-09-28,WRTC,White Diamond Research
+34,2020-10-05,CELH,The Bear Cave
+34,2020-10-05,CELH,Marc Cohodes
+34,2020-10-05,ATRC,Kerrisdale Research
+34,2020-10-05,HTHT,Bonitas Research
+34,2020-10-05,CRNC,The Friendly Bear
+34,2020-10-05,NOVA,Spruce Point Capital
+35,2020-10-12,CMPS,Citron Research
+35,2020-10-12,FCEL,Night Market Research
+35,2020-10-12,WKHS,Fuzzy Panda Research
+35,2020-10-12,CYRX,The Capitolist
+35,2020-10-12,CLSK,White Diamond Research
+35,2020-10-12,CELH,Grizzly Research
+35,2020-10-12,ACMR,J Cap Research
+36,2020-10-19,HYLN,Bonitas Research
+36,2020-10-19,LOOP,Hindenburg Research
+37,2020-11-02,GSX,deloittefraud.com
+37,2020-11-02,GSX,Grizzly Research
+37,2020-11-02,GSX,Muddy Waters
+37,2020-11-02,GSX,Scorpio VC
+38,2020-11-02,GSX,Citron Research
+38,2020-11-02,PRPL,GeoInvesting
+39,2020-11-09,NVEE,
+39,2020-11-09,CELH,
+39,2020-11-09,PDFS,
+39,2020-11-09,ZUO,
+39,2020-11-09,ONE,
+39,2020-11-09,LPSN,
+39,2020-11-09,PING,
+39,2020-11-09,LRN,
+40,2020-11-16,PHM,Anonymous report
+40,2020-11-16,NIO,Citron Research
+40,2020-11-16,MPLN,Muddy Waters
+40,2020-11-16,PEN,Quintessential Capital Management
+40,2020-11-16,AVY,Spruce Point Capital
+40,2020-11-16,EXPI,White Diamond Research
+41,2020-11-23,BLNK,Citron Research
+41,2020-11-23,SOLO,Citron Research
+41,2020-11-23,TTCF,Kerrisdale Capital
+41,2020-11-23,PEN,Marc Cohodes
+41,2020-11-23,PEN,Independent short-seller
+41,2020-11-23,YY,Muddy Waters
+43,2020-12-07,KNDI,Hindenburg Research
+43,2020-12-07,KIDS,Culper Research
+43,2020-12-07,INAQ,An anonymous account
+44,2020-12-14,PEN,Quintessential Capital Management
+44,2020-12-14,PEN,Independent short-seller Marc Cohodes
+44,2020-12-14,GP,White Diamond Research
+44,2020-12-14,IBIO,Mariner Research
+44,2020-12-14,MPLN,“Yet Another Value Blog”
+44,2020-12-14,S30,An anonymous 114-page report
+44,2020-12-14,LAZR,Citron Research
+45,2020-12-21,GSX,Marcus Aurelius Value Research
+45,2020-12-21,PEN,Gabriel Grego
+45,2020-12-21,PEN,Marc Cohodes
+45,2020-12-21,CBAT,J Capital Research
+45,2020-12-21,S30,Muddy Waters
+45,2020-12-21,LOOP,Hindenburg Research
+45,2020-12-21,DASH,Citron Research
+45,2020-12-21,LAZR,Citron Research
+45,2020-12-21,VUZI,Citron Research
+45,2020-12-21,WTC,Viceroy Research
+45,2020-12-21,FRHC,Independent journalist Roddy Boyd
+46,2020-12-28,NETW,ShadowFall Capital
+46,2020-12-28,XL,Citron Research
+46,2020-12-28,MVIS,Hindenburg Research
+46,2020-12-28,CLI,Sheen Bay Research
+46,2020-12-28,GSX,Marcus Aurelius Research
+46,2020-12-28,GSX,Citron Research
+46,2020-12-28,GSX,Grizzly Research
+46,2020-12-28,GSX,Scorpio VC
+48,2021-01-11,NVRO,Kir Khalon
+48,2021-01-11,MGNI,Spruce Point Capital
+48,2021-01-11,BLNK,Culper Research
+48,2021-01-11,BLNK,An anonymous letter
+49,2021-01-19,EOSE,Iceberg Research
+49,2021-01-19,TYR,Viceroy Research
+49,2021-01-19,LMND,Citron Research
+49,2021-01-19,CLSK,Culper Research
+49,2021-01-19,KIDS,Culper Research
+49,2021-01-19,DOYU,Grizzly Research
+49,2021-01-19,BEEM,Mariner Research
+49,2021-01-19,BTBT,J Cap Research
+49,2021-01-19,TRIT,Phase 2 Partners
+49,2021-01-19,RVP,
+50,2021-01-26,PLUG,Kerrisdale Capital
+50,2021-01-26,EOSE,Iceberg Research
+50,2021-01-26,EPA,Muddy Waters Capital
+50,2021-01-26,CLSK,Culper Research
+50,2021-01-26,TRIT,Phase 2 Partners
+50,2021-01-26,GME,Citron Research
+51,2021-02-01,GME,
+52,2021-02-08,CLOV,Hindenburg Research
+52,2021-02-08,BIN,Snow Cap Research
+52,2021-02-08,FIZZ,Grizzly Research
+52,2021-02-08,FUV,Alex Pitti
+52,2021-02-08,CVLB,Citron Research
+52,2021-02-08,TIGR,Kerrisdale Capital
+88,2021-10-24,GWH,Bonitas Research
+88,2021-10-24,NXTP,White Diamond Research
+89,2021-10-31,MP,Grizzly Research
+89,2021-10-31,HSKA,Spruce Point Capital
+89,2021-10-31,PAGS,Viceroy Research
+89,2021-10-31,VUL,J Capital Research
+89,2021-10-31,DWAC,Iceberg Research
+89,2021-10-31,MNTS,White Diamond Research
+114,2022-04-24,DWAC,Kerrisdale Capital
+114,2022-04-24,RKLY,Iceberg Research
+115,2022-05-01,ADJ,Viceroy Research
+116,2022-05-08,VERU,Culper Research
+116,2022-05-08,IONQ,Scorpion Capital
+116,2022-05-08,SGLY,Hindenburg Research
+116,2022-05-08,SGLY,Peabody Street Research
+117,2022-05-15,TWTR,Hindenburg Research
+117,2022-05-15,AZ,White Diamond Research
+117,2022-05-15,WSC,An anonymous and unknown activist
+117,2022-05-15,LMND,Citron Research
+118,2022-05-22,AMR,Spruce Point Capital
+118,2022-05-22,PMVP,Wolfpack Research
+118,2022-05-22,AVZ,Boatman Capital Research
+118,2022-05-22,ZI,The Bear Cave
+119,2022-05-29,BGXX,Sumerian Research
+119,2022-05-29,DAVE,Eclipse Research
+119,2022-05-29,ONEW,Overlooked Alpha
+119,2022-05-29,MBUU,Overlooked Alpha
+119,2022-05-29,ENOB,Hindenburg Research
+120,2022-06-05,ENOB,Hindenburg Research
+120,2022-06-05,LWLG,Kerrisdale Capital
+120,2022-06-05,LOCL,Helios Capital
+120,2022-06-05,NWBO,Buyersstrike
+121,2022-06-12,AMRC,Jehoshaphat Research
+122,2022-06-19,EBIX,Hindenburg Research
+123,2023-01-20,GNRC,Spruce Point Capital
+
+
+
+
+
+232,2024-07-28,ATKR,ManBearChicken
+232,2024-07-28,OTTR,ManBearChicken
+232,2024-07-28,WLK,ManBearChicken
+232,2024-07-28,CNM,ManBearChicken
+232,2024-07-28,DAVE,Bleecker Street Research
+232,2024-07-28,DAVE,Night Market Research
+232,2024-07-28,ERF,Muddy Waters Research
+
+
